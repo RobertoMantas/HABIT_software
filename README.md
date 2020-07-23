@@ -21,7 +21,7 @@ You can find the heat flux in the NV and MD file in columns 41, 42, and 43, the 
 
 In the folder TES_PRESSURE/ I have created some scripts that used in my Master Thesis to give a solution in case there isn't any instrument measuring the pressure. In that script you can see how to take the pressure from the file `New1TES_ALL_DAY_FULLYEAR1_7188` (downloaded only the lat and Lon corresponding to Oxia Planum). In the following imageyou can see a full year calculated by TES for this lat/long. 
 
-<img src="./P_TES.jpg" width="100%">
+<img src="./P_TES.png" width="100%">
 
 
 # Ultraviolet (UV)
