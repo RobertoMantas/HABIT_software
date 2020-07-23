@@ -19,7 +19,10 @@ Explaining the wind function: The first values are the Whitaker Optimal Ks and E
 
 You can find the heat flux in the NV and MD file in columns 41, 42, and 43, the fluid temperature values in the NV and MD file in columns 44, 45 and 46, the wind speed values are being written only in the MD file in columns 51, 52 and 53, the heat transfer coefficient are being written in the MD file in columns 54, 55, and 56.
 
-In the folder TES_PRESSURE/ I have created some scripts that used in my Master Thesis to give a solution in case there isn't any instrument measuring the pressure. In that script you can see how to take the pressure from the file `New1TES_ALL_DAY_FULLYEAR1_7188` (downloaded only the lat and Lon corresponding to Oxia Planum). See pictures attached for the full year calculated by TES for this lat/long.
+In the folder TES_PRESSURE/ I have created some scripts that used in my Master Thesis to give a solution in case there isn't any instrument measuring the pressure. In that script you can see how to take the pressure from the file `New1TES_ALL_DAY_FULLYEAR1_7188` (downloaded only the lat and Lon corresponding to Oxia Planum). In the following imageyou can see a full year calculated by TES for this lat/long. 
+
+<img src="./P_TES.jpg" width="100%">
+
 
 # Ultraviolet (UV)
 
